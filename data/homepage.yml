@@ -58,10 +58,10 @@ about:
   title: "Qui suis je ?"
   content: >
     <p class="lead">
-     Je pratique depuis X annees
+     Je pratique depuis 2017 en cabinet
       </p>
       <p class="lead">
-      Passionnee par blablabla
+      Passionnee par mon metier, je suis a votre ecoute pour vous accompagner dans vos difficultes.
     </p>
   # button:
   #   icon: "icon-smile-fill"
@@ -141,7 +141,7 @@ contact:
   form:
     action: "#"
     full_name: "Votre nom/prenom"
-    email: "Votre adresse mail"
+    email: "Votre adresse email"
     message: "Ecrivez votre message ici"
   phone:
     title: "Numero telephone"
